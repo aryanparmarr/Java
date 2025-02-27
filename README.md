@@ -1,2 +1,2 @@
 # Java
-This is my first repository 
+This repository contains different java codes
